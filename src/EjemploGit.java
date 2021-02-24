@@ -5,6 +5,8 @@ public class EjemploGit {
 		
 		System.out.println("Hola git");
 		
+		String nombre="prueba";
+		
 	}
 	
 }
